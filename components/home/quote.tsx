@@ -35,24 +35,24 @@ const QuoteSection = () => {
 
   const renderQuote = (): React.ReactNode => (
     <div className="tall:py-60 py-72 section-container">
-      <h1 ref={quoteRef} className="font-medium text-3xl md:text-3xl">
-        {/* I have a <span className="text-strong font-bold">strong</span> obsession
-        for attention to detail. */}
-        ✔ Highly skilled in designing, testing and developing software
-        <br />
-        <br />
-        ✔ Thorough understanding of data structures and algorithms
-        <br />
-        <br />
-        ✔ Knowledge of back-end development best practices
-        <br />
-        <br />
-        ✔ Hands-on software troubleshooting experience
-        <br />
-        <br />✔ Proven track record of proper documentation for future
-        maintenance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and upgrade
-      </h1>
-    </div>
+  <h1 ref={quoteRef} className="font-medium text-3xl md:text-3xl">
+    {/* I have a <span className="text-strong font-bold">strong</span> obsession
+    for attention to detail. */}
+    ✔ Highly skilled in data analysis, engineering, and visualization
+    <br />
+    <br />
+    ✔ Thorough understanding of data structures and statistical algorithms
+    <br />
+    <br />
+    ✔ Knowledge of machine learning and predictive modeling techniques
+    <br />
+    <br />
+    ✔ Experienced in data cleaning, preprocessing, and database management
+    <br />
+    <br />✔ Proven track record of generating actionable insights from complex data sets
+  </h1>
+</div>
+
   );
 
   return (

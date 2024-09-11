@@ -103,9 +103,7 @@ const ProjectsSection = ({ isDesktop }: IDesktop) => {
       <p className="section-title-sm seq">PROJECTS</p>
       <h1 className="section-heading seq mt-2">My Works</h1>
       <h2 className="text-2xl md:max-w-3xl w-full seq max-w-sm mt-2">
-        I have contributed in over 10+ projects ranging from Blockchain, Frontend
-        development, Backend development, Mobile app development, and
-        Competitive programming.
+      I have contributed to over 10 projects spanning data analysis, data engineering, machine learning, and system optimization.
       </h2>
     </div>
   );

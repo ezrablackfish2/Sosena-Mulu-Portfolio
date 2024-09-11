@@ -1,7 +1,7 @@
 export const METADATA = {
   title: "Portfolio | Sosena Mulu",
   description:
-    "A versatile professional with expertise spanning full-stack web and blockchain developer React | Node | Django | Solidity.",
+    "A versatile professional with expertise spanning data analysis, machine learning, data management, and virtual assistance.",
   siteUrl: "https://sosena-mulu.vercel.app/",
 };
 
@@ -25,13 +25,15 @@ export const MENULINKS = [
 ];
 
 export const TYPED_STRINGS = [
-  "I am a Full Stack Web and Block Chain Developer",
-  "I develop modern React websites",
-  "I build Scalable Django back end APIS",
-  "I develop very fast and secure Node Backend",
-  "I make very Complex and Advanced Smart Contracts",
-  "I design and develop beautiful UI UX figma designs",
+  "Highly Skilled Data Analyst",
+  "I analyze and interpret complex data",
+  "I develop scalable data pipelines",
+  "I manage and clean datasets",
+  "I apply machine learning models",
+  "I create data visualizations",
+  "I automate and manage tasks",
 ];
+
 
 export const EMAIL = "sosenamulu1212@gmail.com";
 
@@ -55,48 +57,48 @@ export interface IProject {
 
 export const PROJECTS: IProject[] = [
 	{
-    name: "Steelo",
+    name: "Lumivero",
     image: "/projects/works/31-1.PNG",
     blurImage: "/projects/blur/31-1-blurred.jpg",
-    description: "Full Stack Developer React | Node | Solidity",
+    description: "Data Analyst",
     gradient: ["#245B57", "#004741"],
-    url: "https://steelo.io/",
+    url: "https://lumivero.com/",
     tech: ["solidity", "blockchain", "metamask", "web3"],
   },
   {
-    name: "Hanout Boutique",
+    name: "Atlas.ti",
     image: "/projects/works/hanoul.PNG",
     blurImage: "/projects/blur/hanoul-blurred.jpg",
-    description: "React/Django Developer for Hanout Boutique E-commerce Site",
+    description: "Data Specialist (Data analyst Data Science Data Engineer)",
     gradient: ["#1F6582", "#1ABCFE"],
-    url: "https://www.hanoutboutique.com/",
+    url: "https://atlasti.com/",
     tech: ["react", "nodejs", "javascript", "postgresql",],
   },
   {
-    name: "Dogue",
+    name: "Maxqda",
     image: "/projects/works/douge.PNG",
     blurImage: "/projects/blur/douge-blurred.jpg",
-    description: "Full-Stack Node React Developer for DOGUE E-commerce Platform",
+    description: "Data Scientist for Research Publication",
     gradient: ["#245B57", "#004741"],
-    url: "https://www.dogue.com.au/",
+    url: "https://www.maxqda.com/",
     tech: ["react", "django", "python", "mysql",],
   },
 {
-    name: "Big Blanket",
+    name: "Dedoose",
     image: "/projects/works/bigblanket.PNG",
     blurImage: "/projects/blur/bigblanket-blurred.jpg",
-    description: "Node.js Developer for Big Blanket Co E-commerce Platform",
+    description: "Data Scientist",
     gradient: ["#1F6582", "#1ABCFE"],
-    url: "https://bigblanket.com/",
+    url: "https://www.dedoose.com/",
     tech: ["react", "django", "mongodb", "python"],
   },
   {
-    name: "Condado",
-    image: "/projects/works/candado.PNG",
+    name: "EAN-Search",
+    image: "/projects/works/data.PNG",
     blurImage: "/projects/blur/candado-blurred.jpg",
-    description: "Full Stack MERN Developer",
+    description: "Data Entry",
     gradient: ["#245B57", "#004741"],
-    url: "https://condadotacos.com/",
+    url: "https://www.ean-search.org/",
     tech: ["react", "nodejs", "mongodb", "express", "next"],
   }
   
@@ -125,6 +127,25 @@ export const SKILLS = {
     "sass",
     "html",
     "css",
+    "solidity",
+	"blockchain",
+    	"metamask",
+    	"web3",
+	"solana",
+	"rust",
+	"shopify",
+	"django",
+	"postgresql",
+	"woocommerce",
+	"mysql",
+	"express",
+        "python",
+    	"nodejs",
+	"mongodb",
+	"firebase",
+	"prisma",
+  "figma", "xd",
+  "git", "postman", "cpanel", "vercel", "netlify", "docker"
   ],
   backend: [
 	"solidity",

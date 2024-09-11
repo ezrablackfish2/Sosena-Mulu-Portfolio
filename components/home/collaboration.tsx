@@ -88,14 +88,14 @@ const CollaborationSection = () => {
   return (
     <section className={COLLABORATION_STYLE.SECTION} ref={targetSection}>
       {renderSlidingText(
-        "Blockchain User Interface Design  User Experience Mobile App Development ",
+        "Data Analyst Data Entry Data Scientist",
         "ui-left"
       )}
 
       {renderTitle()}
 
       {renderSlidingText(
-        " Frontend Development  FullStack Development Backend Development ",
+        "Data Engineering Virtual Assistant Data Specialist",
         "mt-6 md:mt-8 ui-right"
       )}
     </section>
