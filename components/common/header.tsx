@@ -8,8 +8,9 @@ const Header = ({ children }: { children: React.ReactNode }) => {
           <Image
             src="/ezra.png"
             alt="Logo - Sosena Mulu"
-            width={45}
-            height={70}
+            width={52.5}
+            height={75}
+            style={{ borderRadius: '50%' }}
           />
         </a>
         <div className="outer-menu relative">
