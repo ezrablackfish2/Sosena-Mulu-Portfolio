@@ -38,11 +38,11 @@ export const TYPED_STRINGS = [
 export const EMAIL = "sosenamulu1212@gmail.com";
 
 export const SOCIAL_LINKS = {
-  linkedin: "https://www.linkedin.com/in/ezra-yeneneh-a07203260/",
-  medium: "https://medium.com/@ezrayeneneh1992",
-  instagram: "https://www.instagram.com/ezrablackfish/",
-  facebook: "https://www.facebook.com/profile.php?id=61556500766435",
-  twitter: "https://twitter.com/0x_Ezra",
+  linkedin: "https://www.linkedin.com/in/sosena-mulu/",
+  medium: "",
+  instagram: "",
+  facebook: "",
+  twitter: "",
 };
 
 export interface IProject {
